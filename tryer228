@@ -1,0 +1,2 @@
+def foo(aim):
+    pront(f"Hi,here is new file in a remote repositorium,created for{aim}.GLhf"
